@@ -1,6 +1,6 @@
 #!/bin/bash
 
-KRAKEND_VERSION="1.4.1"
+KRAKEND_VERSION="2.0.4"
 BUILD_DIR="$1"
 
 echo "-----> Downloading KrakenD $KRAKEND_VERSION"
